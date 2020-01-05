@@ -1,0 +1,64 @@
+# Site
+name: "从今天开始研究网赚"
+title: "网络赚钱网络创业"
+baseurl: /blog
+description: "挖一口属于自己的井"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+google_analytics: 'UA-52744860-1'
+disqus: 'missdeer'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:year/:month/:title/
+
+# Authors
+authors:
+  missdeer:
+    name: missdeer
+    display_name: 类库大魔王
+    gravatar: dd30567a716684a7b35e2e3e429ee3c7
+    email: me@minidump.info
+    web: https://minidump.info
+    twitter: https://twitter.com/missdeerme
+    description: "懒惰，傲慢，以及无耐心"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-gist
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 9
+paginate_path: /page/:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-3435940217424489"
+adsense-data-ad-slot: "9166587836"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

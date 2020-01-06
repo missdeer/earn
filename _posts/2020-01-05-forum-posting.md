@@ -2,7 +2,7 @@
 title: "每天在网上赚100美元的方法：论坛发帖"
 tags: ["论坛", "发帖"]
 categories: ["论坛"]
-image: https://www.timcprint.com/zb_users/upload/2019/05/201905021556770830895934.png
+image: https://cdn.jsdelivr.net/gh/missdeer/earn@gh-pages/media/2020-01-05/post.png
 layout: post
 author: missdeer
 featured: false

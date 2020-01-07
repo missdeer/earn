@@ -25,7 +25,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed" | prepend: site.baseurl }}">
   <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
   {% if site.adsense == "enabled" %}
-  <script data-ad-client="{{site.adsense-data-ad-client}}" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  	{% include adsense-under-header.html %}
   {% endif %}
   <!-- End Adsense -->
   {% if page.use_math %}

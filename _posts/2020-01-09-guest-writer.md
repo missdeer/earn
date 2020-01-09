@@ -1,5 +1,5 @@
 ---
-title: "客座作者"
+title: "每天在网上赚100美元的方法：客座作者"
 tags: ["写作", "客座"]
 categories: ["写作"]
 image: https://cdn.jsdelivr.net/gh/missdeer/earn@gh-pages/media/2020-01-09/guest-writer.png

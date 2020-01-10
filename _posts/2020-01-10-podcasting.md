@@ -2,7 +2,7 @@
 title: "每天在网上赚100美元的方法：录制播客"
 tags: ["播客"]
 categories: ["播客"]
-image: https://cdn.jsdelivr.net/gh/missdeer/earn@gh-pages/media/2020-01-09/podcasting.jpg
+image: https://cdn.jsdelivr.net/gh/missdeer/earn@gh-pages/media/2020-01-10/podcasting.jpg
 layout: post
 author: missdeer
 featured: false

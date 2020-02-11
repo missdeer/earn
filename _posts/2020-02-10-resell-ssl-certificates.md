@@ -1,5 +1,5 @@
 ---
-title: "零售SSL证书"
+title: "每天在网上赚100美元的方法：零售SSL证书"
 tags: ["SSL证书", "零售"]
 categories: ["零售"]
 image: https://cdn.jsdelivr.net/gh/missdeer/earn@gh-pages/media/2020-02-10/resell-ssl-certificates.jpg
